@@ -1,5 +1,5 @@
+import {createStore, applyMiddleware } from "redux";
 import thunk from "redux-thunk";
-import { createStore, applyMiddleware } from "redux";
 
 export const greetReducer = (state = { greeting: "Hello" }, action) => {
   switch (action.type) {

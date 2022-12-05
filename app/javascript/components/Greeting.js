@@ -1,5 +1,5 @@
 import React, { useEffect } from "react"
-import { getGreeting } from "../store/greetingsStore.jsx"
+import { getGreeting } from "../store/greetingsStore.js"
 import { useDispatch, useSelector } from "react-redux"
 
 const Greeting = () => {
