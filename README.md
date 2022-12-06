@@ -141,7 +141,6 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
-MIT License
 
 Copyright (c) 2022 Esi Ogagaoghene
 
